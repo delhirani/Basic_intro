@@ -26,12 +26,12 @@ namespace Basic_program
             Console.WriteLine(number);
             Console.ReadLine();
             Console.WriteLine("Enter the value for three numbers");
-            int a = Convert.ToInt32(Console.ReadLine());
-            int b = Convert.ToInt32(Console.ReadLine());
-            int c = Convert.ToInt32(Console.ReadLine());
+            int a1 = Convert.ToInt32(Console.ReadLine());
+            int b1 = Convert.ToInt32(Console.ReadLine());
+            int c1 = Convert.ToInt32(Console.ReadLine());
 
-            a = b;
-            b = c;
+            a1 = b1;
+            b1 = c1;
 
             Console.WriteLine(a);
             Console.WriteLine(b);
