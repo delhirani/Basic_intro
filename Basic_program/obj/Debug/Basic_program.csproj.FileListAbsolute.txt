@@ -1,0 +1,7 @@
+E:\Rani\Msdn\Basic_program\bin\Debug\Basic_program.exe.config
+E:\Rani\Msdn\Basic_program\bin\Debug\Basic_program.exe
+E:\Rani\Msdn\Basic_program\bin\Debug\Basic_program.pdb
+E:\Rani\Msdn\Basic_program\obj\Debug\Basic_program.csprojAssemblyReference.cache
+E:\Rani\Msdn\Basic_program\obj\Debug\Basic_program.csproj.CoreCompileInputs.cache
+E:\Rani\Msdn\Basic_program\obj\Debug\Basic_program.exe
+E:\Rani\Msdn\Basic_program\obj\Debug\Basic_program.pdb
