@@ -25,18 +25,18 @@ namespace Basic_program
             Console.WriteLine((int)b);
             Console.WriteLine(number);
             Console.ReadLine();
-            //Console.WriteLine("Enter the value for three numbers");
-            //int a = Convert.ToInt32(Console.ReadLine());
-            //int b = Convert.ToInt32(Console.ReadLine());
-            //int c = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the value for three numbers");
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = Convert.ToInt32(Console.ReadLine());
+            int c = Convert.ToInt32(Console.ReadLine());
 
-            //a = b;
-            //b = c;
+            a = b;
+            b = c;
 
-            //Console.WriteLine(a);
-            //Console.WriteLine(b);
-            //Console.WriteLine(c);
-            //Console.ReadLine();
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(c);
+            Console.ReadLine();
 
             //ArrayList testing = new ArrayList();
             //testing.Add(a);
