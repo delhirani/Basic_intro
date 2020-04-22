@@ -14,6 +14,10 @@ namespace Basic_program
             int number = 23;
             char a = 'A';
             char b='B';
+            int c, d ,sum;
+            c = Convert.ToInt32(Console.ReadLine());
+            d = Convert.ToInt32(Console.ReadLine());
+            sum = c + d;
             //string new= "New document"
             Console.WriteLine(a);
             Console.WriteLine((int)a);
